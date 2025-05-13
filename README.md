@@ -90,7 +90,7 @@ Create a batch script named "BackupScript.bat" that creates a backup of files wi
 
 Open a notepad file named BackupScript.bat and enter the following:
 
-## Command
+## COMMAND
 
 ~~~
 @echo off
